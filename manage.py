@@ -1,3 +1,5 @@
+# Hey this is a python file as you can see from the .py extension
+
 """
 Script for managing the CONTRIBUTOR.md file.
 What this script does?
